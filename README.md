@@ -2,9 +2,19 @@
 
 ## Problem Statement
 
-## Input Description
+Supply code that will produce the following printout:
 
-## Sample Input/Output
+```
+From: Bill Smith
+Address: Dell Computer, Bldg 13
+Date: April 12, 2005
+
+To: Jack Jones
+
+Message: Help! I'm trapped inside a computer!
+```
+
+Make sure you modify the starter code to identify yourself as the creator, as well include other metadata describing the program.
 
 ## Submission
 
